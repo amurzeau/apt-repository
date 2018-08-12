@@ -1,0 +1,36 @@
+Suite: unstable
+Codename: unstable
+Date: Fri, 17 May 2019 21:14:17 UTC
+Architectures: amd64 i386
+Components: main
+Description: amurzeau personal package repository
+MD5Sum:
+ c36754c037c79587b037453fbc36e4c9 1560 main/binary-amd64/Packages
+ f632353711bbbc53df6f89ee1227c49c 810 main/binary-amd64/Packages.gz
+ f10db60c33d38a57a5ce4aa7907d7018 104 main/binary-amd64/Release
+ d41d8cd98f00b204e9800998ecf8427e 0 main/binary-i386/Packages
+ 7029066c27ac6f5ef18d660d5741979a 20 main/binary-i386/Packages.gz
+ e534baf006915e561f533075fd969222 103 main/binary-i386/Release
+ faddb0d3eb93928309c7f747219ffa3d 1484 main/source/Sources
+ 4e6f60c59925f27e15bfdbca7078a230 791 main/source/Sources.gz
+ d193dfd93fa8b049fc31ddcbca1a97cc 105 main/source/Release
+SHA1:
+ b3143c828514122794211f250ffb69a2958982e7 1560 main/binary-amd64/Packages
+ 84395bcb069781a59e9ec15f6f736860a3cc040b 810 main/binary-amd64/Packages.gz
+ ff3ec2a8ed6cdc7dc35d49ed0a99a892f2080313 104 main/binary-amd64/Release
+ da39a3ee5e6b4b0d3255bfef95601890afd80709 0 main/binary-i386/Packages
+ 46c6643f07aa7f6bfe7118de926b86defc5087c4 20 main/binary-i386/Packages.gz
+ 17f54617a48664808715494f7b2c85ac50bc002e 103 main/binary-i386/Release
+ 4d6e410756042a320dc70512ff20217be4d508df 1484 main/source/Sources
+ 806c97a5876fadbfbf2691ccf29fdc102adb7a2f 791 main/source/Sources.gz
+ 5217ce8f5d7b543ad8cafff9d97a13256ebf78df 105 main/source/Release
+SHA256:
+ 43b9818d364e972a32a7c920a5416080091e12eac3f2f6cf9c885ebfc3c77dce 1560 main/binary-amd64/Packages
+ 317e9b306244ca5ee89eb6ff0e25ca96264eaf868abf86fc7d524d2b7731bf85 810 main/binary-amd64/Packages.gz
+ 44d0cc83a1ddbf7fddbc7020ad5be75a1adc4c0c32478f8ba2e6b85ea36291e5 104 main/binary-amd64/Release
+ e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855 0 main/binary-i386/Packages
+ 59869db34853933b239f1e2219cf7d431da006aa919635478511fabbfc8849d2 20 main/binary-i386/Packages.gz
+ 202f77ea23feeb8c50234fcba0207386b061baf9e2c97fa9c55221fd2f6ca338 103 main/binary-i386/Release
+ 625decb820bea18f8e97ac06159e0af7f225c0e018395795fc1d6786e235a013 1484 main/source/Sources
+ 635e5b36308dbd2e842b1efb5ccd1992aeaaee986b71a671730bad5356a9cce1 791 main/source/Sources.gz
+ ac02b494c43bc53540ea98ffce05dc0d2cab039f860b9cddfbffc6eb6e9b53cf 105 main/source/Release

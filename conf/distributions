@@ -1,0 +1,6 @@
+Suite: unstable
+Codename: unstable
+Components: main
+Description: amurzeau personal package repository
+Architectures: source amd64 i386
+SignWith: 3F7A2FA142E434FE06622560B05266B2EB68F001
